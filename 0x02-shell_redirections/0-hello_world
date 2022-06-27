@@ -1,2 +1,2 @@
-#!/bin/bash
-console.log (Hello world)
+#!/bin/bash 
+echo "Hello world"
