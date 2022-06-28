@@ -1,1 +1,1 @@
-Display all lines of the file
+script that creates a file
