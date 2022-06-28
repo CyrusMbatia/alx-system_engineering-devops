@@ -1,1 +1,1 @@
-prints Hello World
+Display the number of lines that contain the pattern
